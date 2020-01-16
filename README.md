@@ -1,3 +1,7 @@
+![alt text][logo]
+
+[logo]: https://github.com/ranktank-net/ranktank-keyword-rank-checker/blob/master/google-keyword-rank-checker.webp "Google Keyword Rank Checker Tool"
+
 # RankTank Keyword Rank Checker
 
 RankTank makes [Google Keyword rank checking](https://ranktank.net) incredibly simple, fast and accurate.
